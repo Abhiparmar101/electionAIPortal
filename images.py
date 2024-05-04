@@ -54,6 +54,6 @@ def main(stream_urls):
         pool.map(capture_frame, stream_urls)
 
 if __name__ == "__main__":
-    with open("newrtmp.txt", "r") as file:
+    with open("goalinks.txt", "r") as file:
         stream_urls = [line.strip() for line in file if line.strip()]
     main(stream_urls)
