@@ -1,2 +1,2 @@
-# electionAIPortal
-electionAIPortal
+# electionAI
+electionAI
