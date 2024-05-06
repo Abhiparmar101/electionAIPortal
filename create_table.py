@@ -1,7 +1,7 @@
 import sqlite3
 
 def init_db():
-    with sqlite3.connect('metadata.db') as conn:
+    with sqlite3.connect('/home/torqueai/github/electionAIPortal/blobdrive/d/metadata.db') as conn:
         c = conn.cursor()
         c.execute('''
             CREATE TABLE IF NOT EXISTS metadata (

@@ -1,59 +1,60 @@
- rtmp://mgele1.vmukti.com:80/live-record/VSPL-120660-YLOPH
- rtmp://mgele1.vmukti.com:80/live-record/VSPL-120675-PDXPQ
- rtmp://mgele1.vmukti.com:80/live-record/VSPL-120925-SHDVY
- rtmp://mgele1.vmukti.com:80/live-record/VSPL-121318-GPVEU
- rtmp://mgele1.vmukti.com:80/live-record/VSPL-121383-VJYBI
- rtmp://mgele1.vmukti.com:80/live-record/VSPL-122832-ZHWFY
- rtmp://mgele1.vmukti.com:80/live-record/VSPL-123211-SSTHY
- rtmp://mgele1.vmukti.com:80/live-record/VSPL-124440-TXZLC
- rtmp://mgele1.vmukti.com:80/live-record/VSPL-125397-YJHUJ
- rtmp://mgele1.vmukti.com:80/live-record/VSPL-125408-PWEXV
- rtmp://mgele1.vmukti.com:80/live-record/VSPL-114641-AEEGX
- rtmp://mgele1.vmukti.com:80/live-record/VSPL-115280-IGKPT
- rtmp://mgele1.vmukti.com:80/live-record/VSPL-115365-ZDSGS
- rtmp://mgele1.vmukti.com:80/live-record/VSPL-115377-IQCTT
- rtmp://mgele1.vmukti.com:80/live-record/VSPL-116235-RPBHO
- rtmp://mgele1.vmukti.com:80/live-record/VSPL-116377-ZDWCY
- rtmp://mgele1.vmukti.com:80/live-record/VSPL-116434-YJSKD
- rtmp://mgele1.vmukti.com:80/live-record/VSPL-117065-RTACJ
- rtmp://mgele1.vmukti.com:80/live-record/VSPL-117941-VMWEM
- rtmp://mgele1.vmukti.com:80/live-record/VSPL-119113-ZRYJB
- rtmp://mgele1.vmukti.com:80/live-record/VSPL-119244-HSKGS
- rtmp://mgele1.vmukti.com:80/live-record/VSPL-119435-KXRJL
- rtmp://mgele1.vmukti.com:80/live-record/VSPL-120330-LVIPL
- rtmp://mgele2.vmukti.com:80/live-record/VSPL-118398-RDUVO
- rtmp://mgele2.vmukti.com:80/live-record/VSPL-118514-WIHZP
- rtmp://mgele2.vmukti.com:80/live-record/VSPL-110888-KFJGQ
- rtmp://mgele2.vmukti.com:80/live-record/VSPL-111442-NGJYG
- rtmp://mgele2.vmukti.com:80/live-record/VSPL-112064-CQKPG
- rtmp://mgele2.vmukti.com:80/live-record/VSPL-113144-FGSYX
- rtmp://mgele2.vmukti.com:80/live-record/VSPL-113352-UFBPW
- rtmp://mgele2.vmukti.com:80/live-record/VSPL-115111-FUOVI
- rtmp://mgele2.vmukti.com:80/live-record/VSPL-115196-ANBPW
- rtmp://mgele3.vmukti.com:80/live-record/VSPL-111758-FWHAZ
- rtmp://mgele3.vmukti.com:80/live-record/VSPL-114055-ARIQI
- rtmp://mgele3.vmukti.com:80/live-record/VSPL-114457-HDWMN
- rtmp://mgele3.vmukti.com:80/live-record/VSPL-115527-EEKFW
- rtmp://mgele3.vmukti.com:80/live-record/VSPL-115651-MJDOP
- rtmp://mgele3.vmukti.com:80/live-record/VSPL-106973-ZBRFJ
- rtmp://mgele3.vmukti.com:80/live-record/VSPL-107128-XJFDR
- rtmp://mgele3.vmukti.com:80/live-record/VSPL-107130-ZNTXU
- rtmp://mgele3.vmukti.com:80/live-record/VSPL-107147-JWYKD
- rtmp://mgele3.vmukti.com:80/live-record/VSPL-108061-VTARV
- rtmp://mgele3.vmukti.com:80/live-record/VSPL-108496-QKOMN
- rtmp://mgele3.vmukti.com:80/live-record/VSPL-108698-HBMRW
- rtmp://mgele3.vmukti.com:80/live-record/VSPL-109467-HATNC
- rtmp://mgele3.vmukti.com:80/live-record/VSPL-109812-CFRHT
- rtmp://mgele4.vmukti.com:80/live-record/VSPL-109089-FEBFD
- rtmp://mgele4.vmukti.com:80/live-record/VSPL-101048-DREQJ
- rtmp://mgele4.vmukti.com:80/live-record/VSPL-101474-RKWQL
- rtmp://mgele4.vmukti.com:80/live-record/VSPL-101484-SCFRC
- rtmp://mgele4.vmukti.com:80/live-record/VSPL-102157-WAPUS
- rtmp://mgele4.vmukti.com:80/live-record/VSPL-102197-WMEHO
- rtmp://mgele4.vmukti.com:80/live-record/VSPL-102296-IOHKN
- rtmp://mgele4.vmukti.com:80/live-record/VSPL-103237-YQLSV
- rtmp://mgele4.vmukti.com:80/live-record/VSPL-103397-LPUDC
- rtmp://mgele4.vmukti.com:80/live-record/VSPL-104448-SJOUT
- rtmp://mgele4.vmukti.com:80/live-record/VSPL-104770-ZZNSP
- rtmp://mgele5.vmukti.com:80/live-record/VSPL-100504-KAWVN
- rtmp://mgele5.vmukti.com:80/live-record/VSPL-101412-GCBDQ
+rtmp://media12.ambicam.com:1938/dvr30/731ad144-a53e-42fa-aa34-74abbab7f917
+rtmp://mgele4.vmukti.com:80/live-record/VSPL-103397-LPUDC
+rtmp://mgele1.vmukti.com:80/live-record/VSPL-120660-YLOPH
+rtmp://mgele1.vmukti.com:80/live-record/VSPL-120675-PDXPQ
+rtmp://mgele1.vmukti.com:80/live-record/VSPL-120925-SHDVY
+rtmp://mgele1.vmukti.com:80/live-record/VSPL-121318-GPVEU
+rtmp://mgele1.vmukti.com:80/live-record/VSPL-121383-VJYBI
+rtmp://mgele1.vmukti.com:80/live-record/VSPL-122832-ZHWFY
+rtmp://mgele1.vmukti.com:80/live-record/VSPL-123211-SSTHY
+rtmp://mgele1.vmukti.com:80/live-record/VSPL-124440-TXZLC
+rtmp://mgele1.vmukti.com:80/live-record/VSPL-125397-YJHUJ
+rtmp://mgele1.vmukti.com:80/live-record/VSPL-125408-PWEXV
+rtmp://mgele1.vmukti.com:80/live-record/VSPL-114641-AEEGX
+rtmp://mgele1.vmukti.com:80/live-record/VSPL-115280-IGKPT
+rtmp://mgele1.vmukti.com:80/live-record/VSPL-115365-ZDSGS
+rtmp://mgele1.vmukti.com:80/live-record/VSPL-115377-IQCTT
+rtmp://mgele1.vmukti.com:80/live-record/VSPL-116235-RPBHO
+rtmp://mgele1.vmukti.com:80/live-record/VSPL-116377-ZDWCY
+rtmp://mgele1.vmukti.com:80/live-record/VSPL-116434-YJSKD
+rtmp://mgele1.vmukti.com:80/live-record/VSPL-117065-RTACJ
+rtmp://mgele1.vmukti.com:80/live-record/VSPL-117941-VMWEM
+rtmp://mgele1.vmukti.com:80/live-record/VSPL-119113-ZRYJB
+rtmp://mgele1.vmukti.com:80/live-record/VSPL-119244-HSKGS
+rtmp://mgele1.vmukti.com:80/live-record/VSPL-119435-KXRJL
+rtmp://mgele1.vmukti.com:80/live-record/VSPL-120330-LVIPL
+rtmp://mgele2.vmukti.com:80/live-record/VSPL-118398-RDUVO
+rtmp://mgele2.vmukti.com:80/live-record/VSPL-118514-WIHZP
+rtmp://mgele2.vmukti.com:80/live-record/VSPL-110888-KFJGQ
+rtmp://mgele2.vmukti.com:80/live-record/VSPL-111442-NGJYG
+rtmp://mgele2.vmukti.com:80/live-record/VSPL-112064-CQKPG
+rtmp://mgele2.vmukti.com:80/live-record/VSPL-113144-FGSYX
+rtmp://mgele2.vmukti.com:80/live-record/VSPL-113352-UFBPW
+rtmp://mgele2.vmukti.com:80/live-record/VSPL-115111-FUOVI
+rtmp://mgele2.vmukti.com:80/live-record/VSPL-115196-ANBPW
+rtmp://mgele3.vmukti.com:80/live-record/VSPL-111758-FWHAZ
+rtmp://mgele3.vmukti.com:80/live-record/VSPL-114055-ARIQI
+rtmp://mgele3.vmukti.com:80/live-record/VSPL-114457-HDWMN
+rtmp://mgele3.vmukti.com:80/live-record/VSPL-115527-EEKFW
+rtmp://mgele3.vmukti.com:80/live-record/VSPL-115651-MJDOP
+rtmp://mgele3.vmukti.com:80/live-record/VSPL-106973-ZBRFJ
+rtmp://mgele3.vmukti.com:80/live-record/VSPL-107128-XJFDR
+rtmp://mgele3.vmukti.com:80/live-record/VSPL-107130-ZNTXU
+rtmp://mgele3.vmukti.com:80/live-record/VSPL-107147-JWYKD
+rtmp://mgele3.vmukti.com:80/live-record/VSPL-108061-VTARV
+rtmp://mgele3.vmukti.com:80/live-record/VSPL-108496-QKOMN
+rtmp://mgele3.vmukti.com:80/live-record/VSPL-108698-HBMRW
+rtmp://mgele3.vmukti.com:80/live-record/VSPL-109467-HATNC
+rtmp://mgele3.vmukti.com:80/live-record/VSPL-109812-CFRHT
+rtmp://mgele4.vmukti.com:80/live-record/VSPL-109089-FEBFD
+rtmp://mgele4.vmukti.com:80/live-record/VSPL-101048-DREQJ
+rtmp://mgele4.vmukti.com:80/live-record/VSPL-101474-RKWQL
+rtmp://mgele4.vmukti.com:80/live-record/VSPL-101484-SCFRC
+rtmp://mgele4.vmukti.com:80/live-record/VSPL-102157-WAPUS
+rtmp://mgele4.vmukti.com:80/live-record/VSPL-102197-WMEHO
+rtmp://mgele4.vmukti.com:80/live-record/VSPL-102296-IOHKN
+rtmp://mgele4.vmukti.com:80/live-record/VSPL-103237-YQLSV
+rtmp://mgele4.vmukti.com:80/live-record/VSPL-104448-SJOUT
+rtmp://mgele4.vmukti.com:80/live-record/VSPL-104770-ZZNSP
+rtmp://mgele5.vmukti.com:80/live-record/VSPL-100504-KAWVN
+rtmp://mgele5.vmukti.com:80/live-record/VSPL-101412-GCBDQ

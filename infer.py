@@ -9,8 +9,8 @@ from create_table import init_db
 import sqlite3
 
 # Initialize YOLO model
-model = YOLO('yolov8x.pt')  # Ensure this path to your model is correct
-
+model = YOLO('yolov8l.pt')  # Ensure this path to your model is correct
+model.conf = 1
 # Directory paths
 input_folder = 'captured_images'  # Folder with input images
 output_folder = 'blobdrive/t'  # Folder to save processed images
@@ -27,8 +27,9 @@ def send_data_to_server(data):
 
 
 def insert_metadata_into_db(data):
+    print("inserted..")
     # Connect to SQLite3 database
-    conn = sqlite3.connect('metadata.db')
+    conn = sqlite3.connect('blobdrive/d/metadata.db')
     c = conn.cursor()
 
     # Insert metadata into the table
@@ -78,13 +79,13 @@ def process_images(input_dir, output_dir):
                 # Send data to server only if person count is greater than or equal to 1
                 if total_person_count >= 1:
                     data = {
-                        "cameraid": camera_id,
+                        "cameraid": "VSPL-103397-LPUDC",
                         "sendtime": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
                         "imgurl": imgurl,
                         "modelname": "Crowd",
                         "ImgCount": total_person_count,
                         "customerid": "1234567",
-                        "streamname": camera_id
+                        "streamname": "VSPL-103397-LPUDC"
                     }
                     data_db = {
                         "cameraid": camera_id,

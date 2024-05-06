@@ -37,7 +37,7 @@ def capture_frame(stream_url):
             log_capture_error(log_file, stream_url, timestamp, error_message)
             print(f"Failed after {retry_count} retries. Logged the error.")
 
-        time.sleep(60)  # Wait for 1 minute before next capture attempt
+        time.sleep(20)  # Wait for 1 minute before next capture attempt
 
 def log_capture_error(log_file, stream_url, timestamp, error_message):
     with open(log_file, 'a', newline='') as file:
